@@ -17,5 +17,9 @@
     "@pinecone-database/pinecone": "^1.0.0",
     "uuid": "^9.0.0",
     "node-fetch": "^2.6.7"
+  },
+  "engines": {
+    "node": "22.x",
+    "npm": "10.x"
   }
 }
